@@ -4,6 +4,7 @@
 
 
 # HCP STRUCT
+This code is archived.  The gear has been moved to GitLab [bids-hcp](https://gitlab.com/flywheel-io/flywheel-apps/bids-hcp)
 [Flywheel Gear](https://github.com/flywheel-io/gears/tree/master/spec) that runs the structural preprocessing steps of the [Human Connectome Project](http://www.humanconnectome.org) Minimal Preprocessing Pipeline (MPP) described in [Glasser et al. 2013](http://www.ncbi.nlm.nih.gov/pubmed/23668970).  Currently, this includes v4.0.1 release of PreFreeSurfer, FreeSurfer, and PostFreeSurfer pipelines, as well as generating some helpful QC images. For more info on the pipelines, see [HCP Pipelines](https://github.com/Washington-University/Pipelines).
 
 ## Important notes
